@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @V651
+- 👋 Hi, I’m Vivek
 - 👀 I’m interested in Cryptocurrency, Blockchain Technology
-- 🌱 I’m currently learning Blockchain tech
-- 💞️ I’m looking to collaborate on Crypto
+- 🌱 I’m currently working as SDET
+- 💞️ I’m looking to collaborate on Web 3.0
 - 📫 Reach me at hvivek.651@outlook.com
 
 <!---
